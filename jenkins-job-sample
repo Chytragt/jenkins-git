@@ -1,4 +1,4 @@
 cd /var/lib/jenkins/
 touch file1
-echo "welcome to devops" >> file1
+echo "welcome to jenkins" >> file1
 mkdir dir1
